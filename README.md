@@ -1,5 +1,10 @@
 # Python_programs
 This repository contains for basic python programs
 
-# Program List
+# Program Included
 1. Add TwoNumbers
+2.calculator
+
+# How to run 
+Make sure Python 3 is installed
+
